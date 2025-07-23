@@ -1,2 +1,2 @@
-# Taiwan-Stock-Backtesting
-Someone Taiwan Stock Backtesting, starting with 0050, willl do more in the future
+# Stock-Backtesting
+Some Stock Backtesting, starting with QQQ, willl do more in the future
